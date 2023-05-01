@@ -4,7 +4,7 @@
 
 My name is Lester, and I am a passionate backend developer from Honduras
 
--   🌱 I’m currently learning **Node & TypeScript**
+-   🌱 I’m currently learning **TypeScript & Angular**
 
 ## Languages and Tools:
 
