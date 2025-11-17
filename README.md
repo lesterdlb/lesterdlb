@@ -1,26 +1,81 @@
-# Welcome to my Github profile! 👋
+# 👋 Hi, I'm Lester López
 
-## About Me:
+I'm a Senior Backend Engineer specialized in .NET.
 
-My name is Lester, and I am a passionate backend developer from Honduras
+- 🎯 Currently focused on: Observability (OpenTelemetry), microservices, and event-driven systems  
+- 💬 Ask me about: .NET, Clean Architecture, CQRS, messaging, REST APIs, Kubernetes, RabbitMQ, and system design  
+- 🔍 Learning: TypeScript, Angular, and game development fundamentals  
 
--   🌱 I’m currently learning **TypeScript & Angular**
+---
 
-## Languages and Tools:
+## 🛠️ **What I Do**
 
-![c#](https://img.shields.io/badge/csharp-239120?style=for-the-badge&logo=Csharp&logoColor=white)
-![dotnet](https://img.shields.io/badge/dotnet-512BD4?style=for-the-badge&logo=Dotnet&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)
-![php](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![react](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![html](https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white)
-![photoshop](https://img.shields.io/badge/photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![ionic](https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white)
-![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
-![mssql](https://img.shields.io/badge/mssql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![mysql](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **Backend Engineering (C# / .NET 8+)**  
+  APIs REST, Clean Architecture, Vertical Slice, CQRS.
+
+- **Distributed Systems**  
+  MassTransit, RabbitMQ, Sagas, Routing Slips, async messaging patterns.
+
+- **Observability & Monitoring**  
+  OpenTelemetry, Grafana Stack, Jaeger, Application Insights, dashboards & traces.
+
+- **DevOps / Cloud-Native**  
+  Docker, Kubernetes, CI/CD, containerized development environments.
+
+- **Security & Identity**  
+  OAuth2, OpenID Connect, JWT, Keycloak, OpenIddict.
+
+- **Frontend (when needed 😄)**  
+  React, Angular, TypeScript, SPAs with Authorization Code + PKCE.
+
+---
+
+## 🧰 **Tech Stack**
+
+### **Backend & APIs**
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![dotnet](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![efcore](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge)
+
+### **Messaging & Distributed Systems**
+![rabbitmq](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![masstransit](https://img.shields.io/badge/MassTransit-1B5E20?style=for-the-badge)
+
+### **Observability & Monitoring**
+![opentelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![jaeger](https://img.shields.io/badge/Jaeger-65A2F8?style=for-the-badge&logo=jaeger&logoColor=white)
+
+### **DevOps & Tools**
+![docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![rider](https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white)
+![mermaid](https://img.shields.io/badge/Mermaid-000000?style=for-the-badge)
+
+### **Frontend**
+![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Databases**
+![mssql](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+- Advanced distributed systems patterns  
+- Improving front-end architecture with Angular  
+
+---
+
+## 📫 Find me online
+
+- **LinkedIn:** https://www.linkedin.com/in/lesterdlb  
+- **GitHub:** https://github.com/lesterdlb  
+
+---
+
+Thanks for stopping by 👋
