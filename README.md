@@ -65,6 +65,10 @@ I'm a Senior Backend Engineer specialized in .NET.
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesterdlb&layout=compact&theme=dark)
+
+---
+
 ## 📚 Currently Learning
 - Advanced distributed systems patterns  
 - Improving front-end architecture with Angular  
